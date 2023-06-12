@@ -1,0 +1,56 @@
+*{
+    background-color: black;
+    color: snow;
+    font-size: 18px;
+}
+.timeline{
+    text-align: center;
+}
+body{
+    font-size: 1.6rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: snow;
+}
+li {
+    display: list-item;
+    text-align: match-parent;
+}
+#img-caption{
+    font-size: 15px;
+    padding-bottom: 2rem;
+}
+img{
+    width: 100%;
+    height: auto;
+    padding-top: 1rem;
+    padding-bottom: 0.4rem;
+    margin: 0 auto; 
+    display: block;
+    max-width: 100%;
+}
+#img-div {
+    background: black;
+    padding: 10px;
+    margin: 0;
+  }
+blockquote{
+    font-style: italic;
+    padding-bottom: 1.4rem;
+}
+a:visited {
+    color: #74638f;
+}
+a:hover{
+    color: blue;
+}
+#title{
+    font-size: 3rem;
+}
+ul{
+    padding-bottom: 4rem;
+    list-style: none;
+}
+#tribute-info{
+    font-size: 14px;
+}
